@@ -1,7 +1,13 @@
-h1{
-    color: aqua;
-    text-align: center;
+h1 {
+  color: aqua;
+  text-align: center;
 }
-a{
-    text-decoration:underline wavy gold;
+a {
+  text-decoration: underline wavy gold;
+}
+.bestgame{
+    color: bisque;
+}
+.worst{
+    text-decoration: line-through  red;
 }
